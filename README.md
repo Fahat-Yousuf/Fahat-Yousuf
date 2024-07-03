@@ -14,12 +14,12 @@ I'm Fahat Yousuf, a dedicated individual with a strong passion for data developm
 
 ## Skills
 
-- **Data Development**: Proficient in data analysis, data visualization, and database management using Python, SQL, and related tools.
+- **Data Development**: learning in data analysis, data visualization, and database management using Python, SQL, and related tools.
 - **Cybersecurity**: Enthusiastic about network security, penetration testing, and improving system security.
 - **UX Design**: Eager to create user-friendly and intuitive interfaces for enhanced user experiences.
 - **Full Stack Development**: Keen on building web applications from front-end to back-end.
 - **HTML**: Skilled in creating web pages and applications with HTML.
-- **C++**: Experienced in software development using C++.
+- **C++**: Learning in software development using C++.
 
 ---
 
