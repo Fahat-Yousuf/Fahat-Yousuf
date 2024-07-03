@@ -8,7 +8,7 @@
 
 ## Summary
 
-I'm Fahat Yousuf, a dedicated individual with a strong passion for data development, cybersecurity, UX design, and full-stack development. I'm committed to continuous learning and excited to contribute to meaningful projects.
+I'm Fahat Yousuf, a dedicated individual with a strong passion for data development and full-stack development. I'm committed to continuous learning and excited to contribute to meaningful projects.
 
 ---
 
