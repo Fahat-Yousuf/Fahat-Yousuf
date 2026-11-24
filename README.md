@@ -113,6 +113,7 @@ Aerospace Engineering & Computer Science | 2023 – 2026
 ## 📫 Let's Connect
 
 - Email: [kabbofy@gmail.com](mailto:kabbofy@gmail.com)
+- LinkedIn: [linkedin.com/in/fahatyousuf](https://www.linkedin.com/in/fahatyousuf)
 
 Always interested in collaborating on engineering projects, research, and innovative technologies.
 
